@@ -1,0 +1,8 @@
+flask
+sqlite3
+flask_mail
+requests
+jsonify
+Mail
+Message
+Flask
